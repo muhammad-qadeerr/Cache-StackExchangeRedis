@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtpVerification", "OtpVerification\OtpVerification.csproj", "{2B53A5A7-8174-4F97-8AED-F0D16A208652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.WebApi", "Example.WebApi\Example.WebApi.csproj", "{F837215E-F42D-420B-BA92-3233B3964EE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B53A5A7-8174-4F97-8AED-F0D16A208652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B53A5A7-8174-4F97-8AED-F0D16A208652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B53A5A7-8174-4F97-8AED-F0D16A208652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B53A5A7-8174-4F97-8AED-F0D16A208652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F837215E-F42D-420B-BA92-3233B3964EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F837215E-F42D-420B-BA92-3233B3964EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F837215E-F42D-420B-BA92-3233B3964EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F837215E-F42D-420B-BA92-3233B3964EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA36B4DE-FB3A-4FA2-8EEE-9112019BBE6E}
+	EndGlobalSection
+EndGlobal

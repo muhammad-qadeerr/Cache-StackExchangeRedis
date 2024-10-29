@@ -1,0 +1,12 @@
+E:\Dotnet_Practice\PhoneEmailOtpVerification\OtpVerification\bin\Debug\net8.0\OtpVerification.deps.json
+E:\Dotnet_Practice\PhoneEmailOtpVerification\OtpVerification\bin\Debug\net8.0\OtpVerification.dll
+E:\Dotnet_Practice\PhoneEmailOtpVerification\OtpVerification\bin\Debug\net8.0\OtpVerification.pdb
+E:\Dotnet_Practice\PhoneEmailOtpVerification\OtpVerification\obj\Debug\net8.0\OtpVerification.csproj.AssemblyReference.cache
+E:\Dotnet_Practice\PhoneEmailOtpVerification\OtpVerification\obj\Debug\net8.0\OtpVerification.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet_Practice\PhoneEmailOtpVerification\OtpVerification\obj\Debug\net8.0\OtpVerification.AssemblyInfoInputs.cache
+E:\Dotnet_Practice\PhoneEmailOtpVerification\OtpVerification\obj\Debug\net8.0\OtpVerification.AssemblyInfo.cs
+E:\Dotnet_Practice\PhoneEmailOtpVerification\OtpVerification\obj\Debug\net8.0\OtpVerification.csproj.CoreCompileInputs.cache
+E:\Dotnet_Practice\PhoneEmailOtpVerification\OtpVerification\obj\Debug\net8.0\OtpVerification.dll
+E:\Dotnet_Practice\PhoneEmailOtpVerification\OtpVerification\obj\Debug\net8.0\refint\OtpVerification.dll
+E:\Dotnet_Practice\PhoneEmailOtpVerification\OtpVerification\obj\Debug\net8.0\OtpVerification.pdb
+E:\Dotnet_Practice\PhoneEmailOtpVerification\OtpVerification\obj\Debug\net8.0\ref\OtpVerification.dll
